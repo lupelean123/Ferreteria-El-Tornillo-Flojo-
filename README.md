@@ -18,6 +18,7 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 🛠️ Herramientas: Power BI, DAX y modelado de datos.
 
+Previsualización del Dashboard:
 
 <p align="center">
   
