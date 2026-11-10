@@ -27,6 +27,13 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 </p>
 
+#### Dashboard limpio:
+
+<p align="center">
+<img width="805" height="865" alt="Captura de pantalla 2026" src="https://github.com/user-attachments/assets/9e391601-3cf3-48cf-b263-2ec66690f551" />
+</p>
+
+
 #### Versión en HTML:
 
 
