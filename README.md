@@ -28,7 +28,6 @@ Previsualización del Dashboard:
 
 
 
-
 Como está estructurado las tablas y sus conectores:
 <p align="center">
 
