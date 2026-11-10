@@ -11,7 +11,6 @@ Armé un dashboard en Power BI para responder esa pregunta con datos de una ferr
 
 Las categorías con más ventas son Materiales de construcción, Pinturas y acabados, Herramientas eléctricas y Tornillería y fijación.
 Al mirar el margen, las que más aportan son Materiales de construcción, Pinturas y acabados y Tornillería y fijación.
-Materiales de construcción concentra el 42% de las ventas, pero el 23% del margen.
 La brecha contra la meta se concentró entre marzo y mayo.
 
 ✅ La recomendación: concentrar el plan comercial en esas tres categorías, tratar Herramientas eléctricas como categoría de apoyo y reforzar el último trimestre del año para cerrar el 4% pendiente.
