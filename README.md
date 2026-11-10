@@ -32,6 +32,9 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 
 #### Como está estructurado las tablas relacionadas:
+
+Esquema de constelación en Power BI, con 2 tablas de hechos (ventas y metas) y 5 dimensiones (producto, cliente, sucursal, vendedor y calendario).
+
 <p align="center">
 
 <img width="1136" height="811" alt="image" src="https://github.com/user-attachments/assets/d568874d-429b-4eda-a5e4-fff079b65eef" />
