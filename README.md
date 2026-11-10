@@ -1,4 +1,4 @@
-# Ferreteria "El Tornillo Flojo"
+# Ferreteria "El Tornillo Safado"
 
 ## ¿Qué categorías de una ferretería venden más y cuáles aportan más margen? 🔧
 
