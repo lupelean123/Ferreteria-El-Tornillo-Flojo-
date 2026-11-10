@@ -1,0 +1,97 @@
+﻿ID_Producto,Producto,Categoria,Subcategoria,Marca,Proveedor,UnidadMedida,PrecioLista,CostoUnitario,Estatus
+HM-001,Martillo de uña 16 oz,Herramientas manuales,Golpe,Fortek,Distribuidora Forja Norte,Pieza,219.00,131.51,Activo
+HM-002,Juego de desarmadores 6 piezas,Herramientas manuales,Desarmadores,Fortek,Distribuidora Forja Norte,Juego,288.50,165.08,Activo
+HM-003,"Pinzas de presión 10""",Herramientas manuales,Pinzas,Fortek,Distribuidora Forja Norte,Pieza,253.50,140.53,Activo
+HM-004,"Llave ajustable 12""",Herramientas manuales,Llaves,Kovar,Distribuidora Forja Norte,Pieza,323.00,174.65,Activo
+HM-005,Flexómetro 5 m,Herramientas manuales,Medición,Kovar,Distribuidora Forja Norte,Pieza,138.00,77.38,Activo
+HM-006,"Nivel de aluminio 24""",Herramientas manuales,Medición,Kovar,Distribuidora Forja Norte,Pieza,265.00,162.14,Activo
+HM-007,"Serrucho 20""",Herramientas manuales,Corte,Fortek,Distribuidora Forja Norte,Pieza,230.50,136.03,Activo
+HM-008,Juego de llaves combinadas 12 piezas,Herramientas manuales,Llaves,Kovar,Distribuidora Forja Norte,Juego,798.00,472.97,Activo
+HM-009,Arco con segueta,Herramientas manuales,Corte,Fortek,Distribuidora Forja Norte,Pieza,184.00,113.17,Activo
+HM-010,"Cincel 3/4""",Herramientas manuales,Golpe,Fortek,Distribuidora Forja Norte,Pieza,103.00,61.93,Activo
+HM-011,"Escuadra de carpintero 12""",Herramientas manuales,Medición,Kovar,Distribuidora Forja Norte,Pieza,161.00,97.39,Activo
+HM-012,"Caja de herramientas 19""",Herramientas manuales,Almacenaje,Fortek,Distribuidora Forja Norte,Pieza,462.00,254.65,Activo
+HE-001,"Taladro percutor 1/2"" 750 W",Herramientas eléctricas,Taladros,Voltara,Importadora Voltara,Pieza,1736.00,1250.51,Activo
+HE-002,Rotomartillo SDS 800 W,Herramientas eléctricas,Rotomartillos,Voltara,Importadora Voltara,Pieza,3357.00,2364.12,Activo
+HE-003,"Esmeriladora angular 4 1/2""",Herramientas eléctricas,Corte y desbaste,Voltara,Importadora Voltara,Pieza,1388.50,932.26,Activo
+HE-004,"Sierra circular 7 1/4""",Herramientas eléctricas,Corte y desbaste,Voltara,Importadora Voltara,Pieza,2662.00,1901.82,Activo
+HE-005,Atornillador inalámbrico 12 V,Herramientas eléctricas,Inalámbricos,Brava Tools,Importadora Voltara,Pieza,1620.00,1133.56,Activo
+HE-006,Lijadora orbital 1/4 hoja,Herramientas eléctricas,Lijado,Brava Tools,Importadora Voltara,Pieza,1041.00,729.94,Activo
+HE-007,Caladora 500 W,Herramientas eléctricas,Corte y desbaste,Brava Tools,Importadora Voltara,Pieza,1272.50,849.86,Activo
+HE-008,Rotomartillo inalámbrico 20 V,Herramientas eléctricas,Inalámbricos,Brava Tools,Importadora Voltara,Pieza,4631.00,3285.55,Activo
+HE-009,Pistola de calor 1500 W,Herramientas eléctricas,Calor,Voltara,Importadora Voltara,Pieza,751.50,499.08,Activo
+HE-010,Kit taladro + 100 accesorios,Herramientas eléctricas,Taladros,Brava Tools,Importadora Voltara,Kit,2199.00,1531.79,Descontinuado
+TF-001,"Tornillo para tablaroca 1"" (caja 100)",Tornillería y fijación,Tornillos,Tornimax,Fijaciones del Bajío,Caja,80.00,36.22,Activo
+TF-002,"Taquete plástico 1/4"" (bolsa 100)",Tornillería y fijación,Taquetes,Tornimax,Fijaciones del Bajío,Bolsa,56.50,24.49,Activo
+TF-003,"Clavo estándar 2 1/2""",Tornillería y fijación,Clavos,Tornimax,Fijaciones del Bajío,Kilo,52.00,27.39,Activo
+TF-004,"Ancla expansiva 3/8"" (paquete 10)",Tornillería y fijación,Anclas,Tornimax,Fijaciones del Bajío,Paquete,149.50,70.06,Activo
+TF-005,"Pija autorroscante 8 x 1"" (caja 100)",Tornillería y fijación,Tornillos,Tornimax,Fijaciones del Bajío,Caja,91.50,41.17,Activo
+TF-006,"Tuerca hexagonal 1/2"" (bolsa 50)",Tornillería y fijación,Tuercas y rondanas,Tornimax,Fijaciones del Bajío,Bolsa,103.00,51.07,Activo
+TF-007,"Rondana plana 1/2"" (bolsa 100)",Tornillería y fijación,Tuercas y rondanas,Tornimax,Fijaciones del Bajío,Bolsa,68.50,29.86,Activo
+TF-008,Silicón transparente 280 ml,Tornillería y fijación,Adhesivos y selladores,Firmeza,Fijaciones del Bajío,Pieza,91.50,45.15,Activo
+TF-009,Pegamento epóxico 25 ml,Tornillería y fijación,Adhesivos y selladores,Firmeza,Fijaciones del Bajío,Pieza,80.00,40.76,Activo
+TF-010,Espuma de poliuretano 750 ml,Tornillería y fijación,Adhesivos y selladores,Firmeza,Fijaciones del Bajío,Pieza,172.50,88.02,Activo
+PA-001,Pintura vinílica blanca 19 L,Pinturas y acabados,Pintura vinílica,Pintalia,Recubrimientos Pintalia,Cubeta,1679.00,1080.00,Activo
+PA-002,Pintura vinílica color 4 L,Pinturas y acabados,Pintura vinílica,Pintalia,Recubrimientos Pintalia,Galón,566.50,340.25,Activo
+PA-003,Esmalte alquidálico 1 L,Pinturas y acabados,Esmaltes,Pintalia,Recubrimientos Pintalia,Litro,253.50,165.11,Activo
+PA-004,Impermeabilizante acrílico 5 años 19 L,Pinturas y acabados,Impermeabilizantes,Pintalia,Recubrimientos Pintalia,Cubeta,2188.50,1418.22,Activo
+PA-005,Sellador vinílico 19 L,Pinturas y acabados,Selladores,Pintalia,Recubrimientos Pintalia,Cubeta,1041.00,665.19,Descontinuado
+PA-006,"Brocha de cerda 4""",Pinturas y acabados,Accesorios,Pintalia,Recubrimientos Pintalia,Pieza,80.00,50.11,Activo
+PA-007,"Rodillo 9"" con charola",Pinturas y acabados,Accesorios,Pintalia,Recubrimientos Pintalia,Kit,172.50,113.32,Activo
+PA-008,Thinner estándar 1 L,Pinturas y acabados,Solventes,Pintalia,Recubrimientos Pintalia,Litro,68.50,45.66,Activo
+PA-009,Lija de agua grano 220,Pinturas y acabados,Accesorios,Firmeza,Recubrimientos Pintalia,Pieza,14.00,8.96,Activo
+PA-010,"Cinta masking 1""",Pinturas y acabados,Accesorios,Firmeza,Recubrimientos Pintalia,Pieza,40.50,24.64,Activo
+PL-001,"Tubo PVC hidráulico 1/2"" 6 m",Plomería,Tubería,Aquanta,Hidrosistemas Aquanta,Tramo,149.50,92.87,Activo
+PL-002,"Codo PVC 1/2"" 90°",Plomería,Conexiones,Aquanta,Hidrosistemas Aquanta,Pieza,9.50,5.97,Activo
+PL-003,"Llave de paso 1/2""",Plomería,Válvulas,Aquanta,Hidrosistemas Aquanta,Pieza,207.50,132.54,Activo
+PL-004,Mezcladora para lavabo,Plomería,Grifería,Aquanta,Hidrosistemas Aquanta,Pieza,1041.00,662.82,Activo
+PL-005,Tinaco 1100 L,Plomería,Almacenamiento de agua,Aquanta,Hidrosistemas Aquanta,Pieza,3346.50,1986.62,Activo
+PL-006,Céspol de PVC para lavabo,Plomería,Conexiones,Aquanta,Hidrosistemas Aquanta,Pieza,103.00,66.26,Activo
+PL-007,"Cinta teflón 1/2""",Plomería,Conexiones,Aquanta,Hidrosistemas Aquanta,Pieza,17.50,10.63,Activo
+PL-008,"Manguera reforzada 1/2"" 15 m",Plomería,Mangueras,Aquanta,Hidrosistemas Aquanta,Pieza,381.00,220.01,Activo
+PL-009,Bomba periférica 1/2 HP,Plomería,Bombas,Aquanta,Hidrosistemas Aquanta,Pieza,1957.00,1249.37,Activo
+PL-010,Calentador de paso 6 L,Plomería,Calentadores,Aquanta,Hidrosistemas Aquanta,Pieza,4620.50,2879.79,Activo
+EL-001,Cable THW calibre 12 (rollo 100 m),Material eléctrico,Cable,Lumenta,Conductores Lumenta,Rollo,1494.00,931.39,Activo
+EL-002,Apagador sencillo,Material eléctrico,Accesorios eléctricos,Lumenta,Conductores Lumenta,Pieza,45.00,28.05,Activo
+EL-003,Contacto dúplex polarizado,Material eléctrico,Accesorios eléctricos,Lumenta,Conductores Lumenta,Pieza,52.00,32.94,Activo
+EL-004,Foco LED 9 W luz blanca,Material eléctrico,Iluminación,Lumenta,Conductores Lumenta,Pieza,45.00,27.92,Activo
+EL-005,Pastilla termomagnética 20 A,Material eléctrico,Protección,Lumenta,Conductores Lumenta,Pieza,172.50,99.21,Activo
+EL-006,Centro de carga 4 polos,Material eléctrico,Protección,Lumenta,Conductores Lumenta,Pieza,578.00,362.98,Activo
+EL-007,Extensión eléctrica 5 m,Material eléctrico,Extensiones,Lumenta,Conductores Lumenta,Pieza,149.50,92.84,Activo
+EL-008,Cinta de aislar 18 m,Material eléctrico,Accesorios eléctricos,Lumenta,Conductores Lumenta,Pieza,22.00,13.92,Activo
+EL-009,Lámpara LED de techo 18 W,Material eléctrico,Iluminación,Lumenta,Conductores Lumenta,Pieza,404.00,229.17,Activo
+EL-010,Multímetro digital,Material eléctrico,Medición eléctrica,Lumenta,Conductores Lumenta,Pieza,381.00,229.69,Activo
+JA-001,Manguera para jardín 20 m,Jardinería,Riego,Verdalia,Verdalia Jardín,Pieza,334.50,208.66,Activo
+JA-002,Tijera de podar,Jardinería,Herramienta de jardín,Verdalia,Verdalia Jardín,Pieza,253.50,166.75,Activo
+JA-003,Pala jardinera,Jardinería,Herramienta de jardín,Verdalia,Verdalia Jardín,Pieza,184.00,119.36,Activo
+JA-004,Rastrillo metálico 14 dientes,Jardinería,Herramienta de jardín,Verdalia,Verdalia Jardín,Pieza,219.00,129.63,Activo
+JA-005,Podadora eléctrica 1400 W,Jardinería,Motorizados,Verdalia,Verdalia Jardín,Pieza,3473.00,2078.77,Activo
+JA-006,Aspersor giratorio,Jardinería,Riego,Verdalia,Verdalia Jardín,Pieza,149.50,89.11,Activo
+JA-007,Tierra preparada 20 kg,Jardinería,Sustratos,Verdalia,Verdalia Jardín,Bulto,103.00,63.26,Activo
+JA-008,Fertilizante granulado 1 kg,Jardinería,Sustratos,Verdalia,Verdalia Jardín,Bolsa,114.50,66.70,Activo
+JA-009,Carretilla 5 ft³,Jardinería,Carga,Verdalia,Verdalia Jardín,Pieza,1378.00,844.53,Activo
+JA-010,Desbrozadora a gasolina,Jardinería,Motorizados,Verdalia,Verdalia Jardín,Pieza,4504.50,2815.20,Activo
+SI-001,Guantes de carnaza,Seguridad industrial,Protección de manos,Firmeza,Protección Firmeza,Par,68.50,38.78,Activo
+SI-002,Lentes de seguridad,Seguridad industrial,Protección visual,Firmeza,Protección Firmeza,Pieza,56.50,32.29,Activo
+SI-003,Casco de seguridad,Seguridad industrial,Protección de cabeza,Firmeza,Protección Firmeza,Pieza,172.50,90.83,Activo
+SI-004,Botas industriales casquillo,Seguridad industrial,Calzado,Firmeza,Protección Firmeza,Par,1041.00,568.05,Activo
+SI-005,Chaleco reflejante,Seguridad industrial,Alta visibilidad,Firmeza,Protección Firmeza,Pieza,114.50,65.42,Activo
+SI-006,Mascarilla N95 (paquete 10),Seguridad industrial,Protección respiratoria,Firmeza,Protección Firmeza,Paquete,219.00,114.70,Activo
+SI-007,Tapones auditivos (par),Seguridad industrial,Protección auditiva,Firmeza,Protección Firmeza,Par,33.50,20.19,Activo
+SI-008,Arnés de seguridad,Seguridad industrial,Trabajo en alturas,Firmeza,Protección Firmeza,Pieza,1494.00,881.18,Activo
+MC-001,Cemento gris 50 kg,Materiales de construcción,Cementantes,Cimentra,Agregados Cimentra,Bulto,283.50,221.35,Activo
+MC-002,Mortero 50 kg,Materiales de construcción,Cementantes,Cimentra,Agregados Cimentra,Bulto,230.50,183.51,Activo
+MC-003,"Varilla corrugada 3/8"" 12 m",Materiales de construcción,Acero,Cimentra,Agregados Cimentra,Pieza,219.00,172.30,Activo
+MC-004,Block de concreto 15x20x40,Materiales de construcción,Block y ladrillo,Cimentra,Agregados Cimentra,Pieza,19.50,15.40,Activo
+MC-005,Yeso 40 kg,Materiales de construcción,Cementantes,Cimentra,Agregados Cimentra,Bulto,161.00,124.60,Activo
+MC-006,Pegazulejo 20 kg,Materiales de construcción,Cementantes,Cimentra,Agregados Cimentra,Bulto,184.00,142.67,Activo
+MC-007,Malla electrosoldada 6x6 rollo,Materiales de construcción,Acero,Cimentra,Agregados Cimentra,Rollo,1494.00,1167.54,Activo
+MC-008,Panel de yeso 1.22 x 2.44 m,Materiales de construcción,Tablaroca,Cimentra,Agregados Cimentra,Pieza,253.50,202.75,Activo
+MC-009,Cal hidratada 25 kg,Materiales de construcción,Cementantes,Cimentra,Agregados Cimentra,Bulto,103.00,82.80,Activo
+CE-001,Candado de latón 40 mm,Cerrajería y herrajes,Candados,Cerrox,Herrajes Cerrox,Pieza,184.00,106.13,Activo
+CE-002,Cerradura de pomo para recámara,Cerrajería y herrajes,Cerraduras,Cerrox,Herrajes Cerrox,Pieza,404.00,200.07,Activo
+CE-003,Chapa de seguridad para puerta,Cerrajería y herrajes,Cerraduras,Cerrox,Herrajes Cerrox,Pieza,798.00,425.96,Activo
+CE-004,"Bisagra 3"" (par)",Cerrajería y herrajes,Herrajes,Cerrox,Herrajes Cerrox,Par,56.50,28.96,Activo
+CE-005,Jaladera de acero,Cerrajería y herrajes,Herrajes,Cerrox,Herrajes Cerrox,Pieza,45.00,24.58,Activo
+CE-006,Cerradura digital con teclado,Cerrajería y herrajes,Cerraduras,Cerrox,Herrajes Cerrox,Pieza,2883.50,1540.58,Descontinuado
+CE-007,Duplicado de llave,Cerrajería y herrajes,Servicios,Tornillo Dorado,Herrajes Cerrox,Servicio,29.00,16.02,Activo

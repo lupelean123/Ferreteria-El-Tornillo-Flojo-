@@ -1,0 +1,9 @@
+﻿ID_Sucursal,Sucursal,Formato,Ciudad,Estado,Region,FechaApertura,MetrosCuadrados,Gerente,Latitud,Longitud
+SUC-01,Guadalajara Centro,Tienda,Guadalajara,Jalisco,Occidente,2015-03-02,1800,Laura Méndez Ochoa,20.6767,-103.3475
+SUC-02,Zapopan Bodega,Bodega,Zapopan,Jalisco,Occidente,2018-06-15,3500,Ramón Castillo Ibarra,20.7214,-103.3918
+SUC-03,Monterrey Cumbres,Tienda,Monterrey,Nuevo León,Norte,2016-09-01,2200,Alejandra Garza Treviño,25.7271,-100.3916
+SUC-04,Saltillo Centro,Tienda,Saltillo,Coahuila,Norte,2019-02-04,1500,Héctor Valdés Ramos,25.4383,-100.9737
+SUC-05,CDMX Coyoacán,Express,Ciudad de México,Ciudad de México,Centro,2017-11-06,600,Mariana Ortiz Lugo,19.3467,-99.1617
+SUC-06,Puebla Angelópolis,Tienda,Puebla,Puebla,Centro,2020-08-03,1700,Jorge Andrade Pineda,19.0293,-98.2368
+SUC-07,Querétaro Juriquilla,Express,Querétaro,Querétaro,Bajío,2024-06-03,650,Sofía Herrera Campos,20.712,-100.4479
+SUC-08,León Industrial,Bodega,León,Guanajuato,Bajío,2021-04-05,3200,Diego Navarro Salas,21.125,-101.686
