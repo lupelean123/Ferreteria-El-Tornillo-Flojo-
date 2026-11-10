@@ -29,3 +29,11 @@ Previsualización del Dashboard:
 
 
 
+Como está estructurado las tablas y sus conectores:
+<p align="center">
+
+<img width="1136" height="811" alt="image" src="https://github.com/user-attachments/assets/d568874d-429b-4eda-a5e4-fff079b65eef" />
+
+</p>
+
+
