@@ -1,7 +1,7 @@
 # Ferreteria-El-Tornillo-Flojo-
 
 
-### ¿Qué categorías de una ferretería venden más y cuáles aportan más margen? 🔧
+#### ¿Qué categorías de una ferretería venden más y cuáles aportan más margen? 🔧
 
 Armé un dashboard en Power BI para responder esa pregunta con datos de una ferretería de 8 sucursales.
 
@@ -18,7 +18,7 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 🛠️ Herramientas: Power BI, DAX y modelado de datos.
 
-### Previsualización del Dashboard:
+#### Previsualización del Dashboard:
 
 <p align="center">
   
