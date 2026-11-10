@@ -19,3 +19,12 @@ La brecha contra la meta se concentró entre marzo y mayo.
 🛠️ Herramientas: Power BI, DAX y modelado de datos.
 
 
+<p align="center">
+  
+<img width="705" height="866" alt="imagen dashboard de ferreteria " src="https://github.com/user-attachments/assets/ae0c74da-59b0-4c53-b450-a04b57d4c047" />
+
+</p>
+
+
+
+
