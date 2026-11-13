@@ -19,7 +19,7 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 🛠️ Herramientas: Power BI, DAX y modelado de datos.
 
-#### Previsualización del Dashboard en Power Bi:
+#### Previsualización del Dashboard en Power Bi para el año 2026:
 
 <p align="center">
   
@@ -27,11 +27,26 @@ La brecha contra la meta se concentró entre marzo y mayo.
 
 </p>
 
-#### Dashboard limpio:
+#### Dashboard limpio / Año 2026:
 
 <p align="center">
-<img width="805" height="865" alt="Captura de pantalla 2026" src="https://github.com/user-attachments/assets/9e391601-3cf3-48cf-b263-2ec66690f551" />
+<img width="747" height="769" alt="image" src="https://github.com/user-attachments/assets/65dfd295-0526-4136-8a97-a2c4d021082f" />
 </p>
+
+
+#### Dashboard limpio / Año 2025:
+
+<p align="center">
+<img width="746" height="768" alt="image" src="https://github.com/user-attachments/assets/1a8a3552-2e77-43fb-b029-dce7ee66af44" />
+</p>
+
+
+#### Dashboard limpio / Año 2024:
+
+<p align="center">
+<img width="746" height="766" alt="image" src="https://github.com/user-attachments/assets/ab7c5087-0024-4214-bd19-8744daaf499b" />
+</p>
+
 
 
 #### Versión en HTML:
